@@ -1,0 +1,2 @@
+# FILTER-WEB-APP
+St. Fairy School is organizing an annual day function at their school , they have arranged fun activities like balloon shooter, dance booth, cooking challenge and they also want to have a fun photo booth where a photo with a filter like mustache or lipstick will be captured and saved. Those who wish to have these photos can collect them from their teachers. So they are looking forward to a kid who can build a filter web app for them. And select the one with the best filter web App.
